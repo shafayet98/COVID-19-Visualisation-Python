@@ -1,6 +1,6 @@
-# COVID-19-Visualisation-Python
+# COVID-19-Visualization-Python
 
-This is a visualisation of 5 countries: [Spain, Germany, Iran, USA, France].
+This is a visualization of 5 countries: [Spain, Germany, Iran, USA, France].
 Date: From March,11 to March,20.
 
 I used Pandas and Matplotlib to visualise how many people died and how many people are affected in Corona Virus.
